@@ -8,7 +8,7 @@ An unofficial PC version of **The Simpsons Road Rage** (Xbox, 2001). It runs the
 
 ## What you need
 
-- Windows 10 or 11 (64-bit)
+- Windows 10 or 11 (64-bit) or Linux through the proton layer.
 - Your own **The Simpsons Road Rage for the original Xbox, North American (NTSC) version**, copied to your PC in one of two ways:
   - a folder with the disc's files (`default.xbe` and the `.rcf` archives), or
   - a disc image (`.iso`) you made of your disc
